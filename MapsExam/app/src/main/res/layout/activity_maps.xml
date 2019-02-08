@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             xmlns:map="http://schemas.android.com/apk/res-auto"
+             android:layout_width="fill_parent"
+             android:layout_height="fill_parent"
+>
+
+    <fragment
+            android:layout_below="@id/list_item"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/map"
+            tools:context=".MapsActivity"
+            android:layout_alignParentTop="true"
+            android:name="com.google.android.gms.maps.SupportMapFragment"/>
+
+
+
+    <LinearLayout
+            android:background="@drawable/gradient_background"
+            android:id="@+id/list_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical"
+            android:animateLayoutChanges="true"
+  >
+        <Button
+                android:id="@+id/btn_ocultar"
+                android:layout_marginLeft="100dp"
+                android:layout_marginRight="100dp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+
+                android:text="Ocultar"
+        />
+        <android.support.v7.widget.RecyclerView
+                android:id="@+id/placesList"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                  android:layout_weight="9"
+                  tools:itemCount = "15"
+
+        />
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,265 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "76",
+        "short_name": "76",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Avenida Juárez",
+        "short_name": "Av. Juárez",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Colonia Centro",
+        "short_name": "Colonia Centro",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Centro",
+        "short_name": "Centro",
+        "types": [
+          "sublocality_level_1",
+          "sublocality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "México D.F.",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Ciudad de México",
+        "short_name": "CDMX",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Mexico",
+        "short_name": "MX",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "06010",
+        "short_name": "06010",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Av. Juárez 76</span>, <span class=\"extended-address\">Colonia Centro, Centro</span>, <span class=\"postal-code\">06010</span> <span class=\"locality\">Ciudad de México</span>, <span class=\"region\">CDMX</span>, <span class=\"country-name\">Mexico</span>",
+    "formatted_address": "Av. Juárez 76, Colonia Centro, Centro, 06010 Ciudad de México, CDMX, Mexico",
+    "formatted_phone_number": "01 55 5130 2900",
+    "geometry": {
+      "location": {
+        "lat": 19.4345003,
+        "lng": -99.14675090000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.4359738802915,
+          "lng": -99.1456377197085
+        },
+        "southwest": {
+          "lat": 19.4332759197085,
+          "lng": -99.14833568029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+    "id": "069dfe85ad13306411a312e47c12e01540d983ba",
+    "international_phone_number": "+52 55 5130 2900",
+    "name": "Fiesta Inn Centro Histórico",
+    "opening_hours": {
+      "open_now": true,
+      "periods": [
+        {
+          "open": {
+            "day": 0,
+            "time": "0000"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    "photos": [
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102816773273168406937/photos\">Fiesta Inn Centro Histórico</a>"
+        ],
+        "photo_reference": "CmRaAAAABPks5-PrznyrpSXEYZOc2eBH_Ium6i78icfgEj7jTzdbZHortjCcT27a8rZnocRDwmCTm5FHqPDyqBWdknlVsAqSTeZLN-gq2c3JcB0UH-A5gPzqgcJnUwxVj-cSLubnEhCGSWAS_etrn-CqqAWrDGirGhQkMOH411kPyR282jsWCNOG3oi5TA",
+        "width": 3853
+      },
+      {
+        "height": 3831,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102816773273168406937/photos\">Fiesta Inn Centro Histórico</a>"
+        ],
+        "photo_reference": "CmRaAAAAApRkOI5cUtd_Wj0yhv9hGtLd2Fj2g5AvVbtjRlURWwP7X01fiDhvV46hl8o_1uF6THg2BSJNLAHjGG3Jy4VtNV8tgTerIUoq4GhFRgvFQrmMxhjSvGdt7kclrN_KPLgxEhCJrYilQy0Mg4oJ2rnVJKBKGhS9nYSq5JXYmM18Gloya-xJ8617MA",
+        "width": 5746
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115588368226058762864/photos\">José Escamilla</a>"
+        ],
+        "photo_reference": "CmRaAAAArO4Sr5gxBDDMLaF_6aTRp8QRhSx8l-9ULxg4HKVmgUVVzFeSGMd1uElE0qVD_6cKkpu-ifDz0ezAmENj8ahC2mcCPy1yU7bh3pe4n7bzm216GLhGMj_mkl1vjX3JDXTVEhDNafoRqs_pxa1e4XzQiXIsGhQLpDDHQwmHHMeUhy6FTsHCyFT-DQ",
+        "width": 4032
+      },
+      {
+        "height": 3831,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102816773273168406937/photos\">Fiesta Inn Centro Histórico</a>"
+        ],
+        "photo_reference": "CmRaAAAA67GmejDM3eFau70_pDQ8Ul0qKKmIkL2RkGwlb5mYLdygJXjgKBshQPj7Vxla3Yn78WPg2R1wQ6rkX55fJM_cTLJlT7mlLLBkplAC5-EZRrPw29StmhLKD1fQ29U5PQsKEhAlxQ1Ka1scXuB9MW0JtSjiGhSyRTURpPTl7-i-fkEuenzM9IX0iA",
+        "width": 5746
+      },
+      {
+        "height": 3831,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102816773273168406937/photos\">Fiesta Inn Centro Histórico</a>"
+        ],
+        "photo_reference": "CmRaAAAAbqfWel3EVDhHbVjX_gTrxjN7Rx7ps87DXQnKsNj14cW3m3liXy8zQtcwba4trWSUqa2IOXiDfvQwgdrmbSRfFN3uAE0FjaFpgpm-98aDgfDujbi89t65bv9iW1-YvOwoEhCJ4ij_E6USeUX5YLFTIXHoGhRa-3EHRRM0rZAppFDpzU9RSCnTEA",
+        "width": 5746
+      },
+      {
+        "height": 3831,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102816773273168406937/photos\">Fiesta Inn Centro Histórico</a>"
+        ],
+        "photo_reference": "CmRaAAAA9W_1LAhWExLHaTAENECIPsOqZy8FNEp3ZleveoQv27zm_FNMfAMFftNBRP_rFFyfX1QkfHAv7TcfTb5V026CcoWEVuuftic7f77rtfDonq9NOne9ab09BXJgRrCyuVeKEhDRci-2z6zqHBiOb2lRXKciGhS8Kcrhi9r8odIAuSyYM3WoyXjkEQ",
+        "width": 5746
+      },
+      {
+        "height": 3831,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102816773273168406937/photos\">Fiesta Inn Centro Histórico</a>"
+        ],
+        "photo_reference": "CmRaAAAAB-lldMWXZUZavL6JxzUsLaqZahwWknVZarGWnXrU6HuH3t2Mlb7qXBFW7p3vRTKtcK9_bVNu0umNbMldlF1Q1zzDUlacfEM92X2aLHBjsVeWKxkrCZKEsMvprnQ68gv6EhCGvKlhOHOrD4cb6ltXkwTWGhSBGb8QqCrGciTPUfQzJWiEdEN2CQ",
+        "width": 5746
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102816773273168406937/photos\">Fiesta Inn Centro Histórico</a>"
+        ],
+        "photo_reference": "CmRaAAAAyUoMbQHoHVNRCYJA1c-XvMwP7SaR0as5oBBsMajIrqHALErNi193t0DZEMZK8fSZTYHnA7-dvcEM0iieL9Lb6yqlRAvMYKQnDm5uqWaoOyj1JnS4TGMdnF0l4BlTV3T8EhDmla0RDYy0WbKFwhFyOvgyGhQXfvWYdHdpi0eCHN8ym3fgM0MvEA",
+        "width": 5760
+      },
+      {
+        "height": 3840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102816773273168406937/photos\">Fiesta Inn Centro Histórico</a>"
+        ],
+        "photo_reference": "CmRaAAAAjuKX-46ZGeBD7fU7NKu46p3DbOSPJJ_7PLG0wvEMUYoqz2F0cSGAcVgXshhoDRVEKtokaw98Tpn6yNAI-ZMTNVgm6FxLOOhjasu0wuYZM2ZBdZcp08F2ygEfvOZD_pcbEhBH8kRgyKpllFV1HbkoUrpcGhQWVFxICRDBryiqNzB0VtPO2v9ZiA",
+        "width": 5760
+      },
+      {
+        "height": 3831,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102816773273168406937/photos\">Fiesta Inn Centro Histórico</a>"
+        ],
+        "photo_reference": "CmRaAAAAIO2YR-IUM8k5fPLvKp5tViKHYttSdSNsAck92A9qVU9JPkzWOSn8bnWPCotdQZOVjbQoJWRsftsmb83mLpKrf3hPjZGpkDomZE3fvtdlUScEXbDHSFJ7g0VD9DJdGh5QEhCO1R1Fmy0CUANKytSEcQXgGhSrAZzy6Z4Qvk6hTZBbQAX8iQGzlQ",
+        "width": 5746
+      }
+    ],
+    "place_id": "ChIJ815uctX40YUREyhhjRQ0zFc",
+    "plus_code": {
+      "compound_code": "CVM3+R7 Mexico City, Mexico",
+      "global_code": "76F2CVM3+R7"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ815uctX40YUREyhhjRQ0zFc",
+    "reviews": [
+      {
+        "author_name": "Eduardo Martinez Estebanes",
+        "author_url": "https://www.google.com/maps/contrib/106553098075837848793/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/-pNufiVrQcYk/AAAAAAAAAAI/AAAAAAAABOk/2kjPGAEInIE/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+        "rating": 4,
+        "relative_time_description": "a month ago",
+        "text": "Business class hotel, but service is outstanding. Rooms are ok with a great LCD TV and complementary coffee. Restaurant is good but I tasted chilaquiles and the sauce seems salty. It is located inside small commercial plaza so you have other food options, Starbucks, and other restaurants nearby walking distance. The location is great also for tourism in city downtown.",
+        "time": 1544968823
+      },
+      {
+        "author_name": "Keith LaRoche",
+        "author_url": "https://www.google.com/maps/contrib/107407849967640912313/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/-UKRzx1jeiMU/AAAAAAAAAAI/AAAAAAAAAFk/r_UwPD-Yils/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+        "rating": 1,
+        "relative_time_description": "3 months ago",
+        "text": "We are owners in the Fiesta Americana.  This is the worst hotel we have ever stayed in. We tried to call and get specific directions so we would know where to park. Not one person could speak English.  They hung up on us 4 times. We were on our own to find it and figure it out. It's in a Mall. . . The parking is under the mall. No easy way to get to the lobby.  Took two different elevators to find the lobby. Then we finally found the lobby in the mall.. The desk was at unresponsive as when they hung up the phone 4 times.. The city is all around. There is a couple historical structures.  The room is \"OK\" not really at Fiesta Americana standards.  \nI would not recommend this hotel to any Fiesta Americana owners.  You have to pay to valet and pay to park. You get hit twice just to park the car. \nWorst  Fiesta Americana sight ever \nYou have to drag your bags around until you find the front desk.. \nThat's right, no Fiesta employees where you park. No one to direct you in the right direction.  \nUnacceptable..... I wish I could put ZERO STARS.",
+        "time": 1541368317
+      },
+      {
+        "author_name": "Clau Gomez",
+        "author_url": "https://www.google.com/maps/contrib/100035926702399847696/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh4.googleusercontent.com/-ygPne6-OQC4/AAAAAAAAAAI/AAAAAAAADpg/MIgjmdEYOgc/s128-c0x00000000-cc-rp-mo/photo.jpg",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "The service it is the best, the location it os beautiful and amazing. It was an incredible experience",
+        "time": 1548369284
+      },
+      {
+        "author_name": "Sarah B-Martin",
+        "author_url": "https://www.google.com/maps/contrib/101902693260799646360/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh6.googleusercontent.com/-ntX3LYiDxAE/AAAAAAAAAAI/AAAAAAAAAQc/oAYA6wcVTuA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "It was hard to spot from the taxi, but we liked the hotel a lot. Very comfortable beds and a television so big my son is still talking about it months later. Service was excellent and the elevator access focused on maximum security.",
+        "time": 1536442684
+      },
+      {
+        "author_name": "Antony Garcia",
+        "author_url": "https://www.google.com/maps/contrib/116578588546962439759/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh4.googleusercontent.com/-IeOtVoR2O5M/AAAAAAAAAAI/AAAAAAAAAHc/fj1EaXWpxkA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Great location, great amenities, brand new and well kept. The ONLY issue I had was the noise pollution from the street; the sound from honking cars travelled into the room easily.",
+        "time": 1542690592
+      }
+    ],
+    "scope": "GOOGLE",
+    "types": [
+      "lodging",
+      "point_of_interest",
+      "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=6326488839424649235",
+    "user_ratings_total": 951,
+    "utc_offset": -360,
+    "vicinity": "Avenida Juárez 76, Centro, Ciudad de México",
+    "website": "http://www.fiestainn.com/es/web/fiesta-inn-centro-historico-ciudad-de-mexico"
+  },
+  "status": "OK"
+}
